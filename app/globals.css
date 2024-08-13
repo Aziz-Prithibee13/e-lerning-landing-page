@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-btn
+{
+    background-color: #9F70FD;
+    color: #fff;
+}
+.title
+{
+    color: #793FDF;
+}
+
+.iconColor
+{
+   color:  #7071E8;
+}
+
+.seedTitle
+{
+    color: #7071E8;
+}
+
+.ratingContainer
+{
+    color: #7071E8;
+}
+
+.legBanner
+{
+    
+    background:  url("../Assets/pix12.png") no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     
+}
+
+.bannerText
+{
+    color: #7071E8;
+}
+
+.bannerBtn
+{
+    background-color: #793FDF;
+    color: #fff;
+}
+
+.face
+{
+    color: #5B99C2;
+}
+
+.pin
+{
+    color: #ED2B2A;
+}
+
+.linked
+{
+    color: #10439F;
+}
